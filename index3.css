@@ -1,0 +1,16 @@
+.two{
+    background-image: url("./lol.jpg");
+    height:50vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   padding: 80px;
+}
+.body{
+  overflow-x: hidden;
+}
+
+.bo{
+    border-inline: 1px solid black;
+}

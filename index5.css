@@ -1,0 +1,10 @@
+.two{
+    background-image: url("https://www.sellershelpline.com/wp-content/uploads/2015/06/Contact-us-1920x929.jpg");
+    height:70vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px;
+    background-color: gray;
+}

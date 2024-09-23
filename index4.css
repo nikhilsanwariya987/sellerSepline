@@ -1,0 +1,12 @@
+.nav-link:hover{
+    border-bottom: 1px solid black;
+}
+.two{
+    background-image: url("https://www.sellershelpline.com/wp-content/uploads/2015/07/team-1920x626.jpg");
+    height:70vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 100px;
+}

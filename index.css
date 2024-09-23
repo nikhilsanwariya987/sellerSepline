@@ -1,0 +1,9 @@
+.nav-link:hover{
+    border-bottom: 1px solid black;
+}
+.two{
+    height:70vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
